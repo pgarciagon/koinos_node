@@ -91,3 +91,8 @@ Run koinos-chain microservice
 
     /usr/local/bin/koinos-chain
 
+
+The output shall loook like this:
+    output
+
+
